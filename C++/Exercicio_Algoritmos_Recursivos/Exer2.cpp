@@ -8,8 +8,8 @@ int num(int n){
     if (n == 1) cout << n << endl;
     else
     {
-        num(n-1);
         cout << n << endl;
+        num(n-1);
     }
     return n;
 }
