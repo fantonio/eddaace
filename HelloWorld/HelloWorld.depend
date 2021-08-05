@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1595386073 source:/home/fabio/CT-234/HelloWorld/main.cpp
-	"hello.h"
-
-1595385601 source:/home/fabio/CT-234/HelloWorld/hello.cpp
-	<iostream>
-
-1595385973 /home/fabio/CT-234/HelloWorld/hello.h
-
