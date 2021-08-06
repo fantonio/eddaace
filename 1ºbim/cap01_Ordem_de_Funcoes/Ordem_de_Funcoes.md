@@ -45,3 +45,19 @@ Exemplos de operações básicas realizadas por um algoritmo, todas contabilizad
 > - Chamada de função.
     - f(x);
 
+### Tempo de Execução de um Algoritmo ###
+
+O tempo de execução de um algoritmo será representado por uma função de custo **T**, onde **T(n)** é a medida do tempo necessário para executar um algoritmo para um problema de tamanho n. Logo T é chamada **função complexidade de tempo do algoritmo**. Se T(n) é a medida de memória necessária para a execução do algoritmo, então T é chamada **função de complexidade de espaço**. Vale lembrar que T não representa diretamente o tempo de execução, mas o número de vezes que certa operação relevante é executada.
+
+O programa abaixo encontra o menor valor em um vetor de tamanho n:
+``` 
+int calculamenor (int A[], int n)
+{
+    menor = A[0];
+    for (i=1; i<n; i++) {
+        if (A[i] < menor)
+            menor = A[i];
+    }
+    return menor;
+}
+``` 
