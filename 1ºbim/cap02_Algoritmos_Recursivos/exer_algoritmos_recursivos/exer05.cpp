@@ -1,0 +1,5 @@
+/*
+
+Calcular a soma dos valores armazenados em um vetor.
+
+*/
