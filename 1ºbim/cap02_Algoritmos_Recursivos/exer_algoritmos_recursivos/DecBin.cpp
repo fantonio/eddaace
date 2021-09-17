@@ -1,8 +1,6 @@
 #include<iostream>
 /*
-
-Algoritmo recursivo que recebe sem ordenar o vetor descobre o maior e menor elemento.
-
+Algoritmo para converter decimal em binário.
 */
 
 using std::cout;
