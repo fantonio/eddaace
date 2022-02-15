@@ -13,7 +13,7 @@ Este repositório tem por objetivo armazenar todos os códigos desenvolvidos na 
 * Ordenação (Resoluções quadráticas, lower bound, MergeSort, RadixSort)
 * Ordenação (HeapSort, QuickSort, Rede Bitônica)
   
----
+___
 
 #### Parte 2
 
