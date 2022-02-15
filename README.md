@@ -2,7 +2,9 @@
 
 Este repositório tem por objetivo armazenar todos os códigos desenvolvidos na matéria CT-234 do ITA, e também os conceitos ali aplicados.
 
-#### Ementa do Estudo
+### *Ementa do Estudo*
+
+#### Parte 1
 
 * Ordem de Funções (Notação O, e similares)
 * Algoritmos Recursivos (Indução Matemática, recursão, recorência)
@@ -10,6 +12,11 @@ Este repositório tem por objetivo armazenar todos os códigos desenvolvidos na 
 * Árvores balanceadas (AVL, Rubro-Negras, B-trees, BubbleSort, InsertSort, SelectionSort)
 * Ordenação (Resoluções quadráticas, lower bound, MergeSort, RadixSort)
 * Ordenação (HeapSort, QuickSort, Rede Bitônica)
+  
+---
+
+#### Parte 2
+
 * Busca de Padrões (Boyer-Moore, KMP, Karp-Rabin)
 * Algoritmos em Grafos (Conceitos Básicos, Representações, Explorações Sistemáticas)
 * Algoritmos em Grafos (Tarjan, Dijkstra, Kruskal, Prim)
