@@ -1,9 +1,7 @@
 #include<iostream>
 
 /*
-
 Programa para calcula o fatorial de um número natural n, utilizando if;
-
 */
 
 using std::cout;
