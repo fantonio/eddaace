@@ -2,6 +2,8 @@
 
 Este repositório tem por objetivo armazenar todos os códigos desenvolvidos na matéria CT-234 do ITA, e também os conceitos ali aplicados.
 
+<img src="https://miro.medium.com/max/1400/0*ieLXy9BTq6Eobwlt.jpg" />
+
 ### *Ementa do Estudo*
 
 #### Parte 1
