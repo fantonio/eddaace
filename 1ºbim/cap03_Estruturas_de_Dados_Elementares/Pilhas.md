@@ -6,9 +6,13 @@ e recuperar dados. Por está razão, um pilha é chamada de estrutura **LIFO** (
 *As operações de uma pilha são:*
 
 `clear()   - Limpa a pilha`
+
 `isEmpyt() - Verifica se a pilha está vazia` 
+
 `push()    - Coloca o elemento no topo da pilha`  
+
 `pop()     - Toma o elemento mais alto da pilha`
+
 `top()     - Retorna o elemento mais alto da pilha sem remove-lo`
 
 
