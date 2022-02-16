@@ -17,39 +17,26 @@ stack <int> s1;
 int ReprBin (int x){
     
     if (x == 0)
-        printf("O fatorial é: %d\n", x);
+        printf("O valor em binário é: %d\n", x);
     else {
         while (x != 0){
             s1.push(x%2);
+            printf(" [+] Valor no topo da pilha: %d\n", s1.top());
             x = x/2;
         }
         while (!s1.empty()){
-            printf("O valor em Binario: %d\n", s1.top());
+            s1.pop();
+            printf(" [-] Removendo da Pilha: %d\n", s1.top());
+
         }
         
     }
-    return x;
+return 0;
 }
 
 int main( )
 {
-    /*
-    s1.push( 5 );
-    */
-    int numero = 5;
+    int numero = 10;
     ReprBin(numero);
-/*
-   if ( s1.empty( ) )
-      cout << "The stack s1 is empty." << endl;
-   else
-      cout << "-> A pilha s1 não está vazia." << endl;
-      printf(" # O valor contigo na pilha é: %d\n", s1.top());
-
-   if ( s2.empty( ) )
-      cout << "-> A pilha s2 está vazia." << endl;
-   else
-      cout << "The stack s2 is not empty." << endl;
-*/
-
 return 0;
 }
