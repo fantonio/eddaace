@@ -12,4 +12,4 @@ T(4) = T(3) + b = a + 3b
 
 Generalizando: T(n) = a + (n-1)b
 Portanto: T(n) = Θ(n)
-``` 
+```

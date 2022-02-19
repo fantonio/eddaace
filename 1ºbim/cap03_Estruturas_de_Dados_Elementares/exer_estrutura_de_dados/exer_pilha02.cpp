@@ -5,7 +5,7 @@ int main( )
 {
    using namespace std;
    // Declares stacks with default deque base container
-   stack <int> s1=10, s2;
+   stack <int> s1, s2;
 
    s1.push( 1 );
    s1.push( 2 );
