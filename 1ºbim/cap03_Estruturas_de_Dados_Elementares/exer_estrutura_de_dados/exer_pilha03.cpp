@@ -30,7 +30,8 @@ int main(){
    cout<<"\n2 - Consultar toda a pilha";
    cout<<"\n3 - Remover da pilha";
    cout<<"\n4 - Esvaziar a pilha";
-   cout<<"\n5 - Sair";
+   cout<<"\n5 - Sair\n";
+   cout<<"\nEntre com a opção desejada:";
    cin>>op;
 
    if(op < 1 || op > 5){
