@@ -44,8 +44,53 @@ int main(){
       topo = novo;
       cout<<"Número inserido na pilha!!";
    }
-   
-
+   if (op == 2){
+      if (topo == NULL){
+         // a pilha está vazia
+         cout<<"Pilha vazia!";
+      }
+      else{
+         // a pilha contém elementos estes serão mostrados do último inserido ao primeiro
+         cout<<"\nConsultando toda a pilha\n";
+         aux = topo;
+         while (aux != NULL){
+            cout<<aux->num<<" ";
+            aux = aux->prox;
+         }
+      }
+   }
+   if (op == 3){
+      if (topo == NULL){
+         // a pilha está vazia
+         cout<<"Pilha vazia!!";
+      }
+      else{
+         // a pilha contém elementos e o último elemento inserido será removido
+         aux = topo;
+         cout<<"Número "<<topo->num<<" -> removido";
+         topo = topo->prox;
+         delete(aux);
+      }
+   }
+   if ( op == 4){
+      if( topo == NULL){
+         // a pilha está vazia
+         cout<<"Pilha vazia!!";
+      }
+      else{
+         //a pilha será esvaziada
+         aux=topo;
+         while( aux != NULL){
+            topo = topo->prox;
+            delete(aux);
+            aux = topo;
+         }
+         cout<<"Pilha esvaziada";
+      }
+   }
+   if ( op == 5){
+      cout<<"Tchau!!!";
+   }
 }
 
 
