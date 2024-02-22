@@ -1,6 +1,7 @@
 # Estruturas de Dados, Análise de Algoritmos e Complexidade Estrutural
 
-Este repositório tem por objetivo armazenar todos os códigos desenvolvidos na matéria CT-234 do ITA, e também os conceitos ali aplicados.
+Este repositório tem por objetivo criar uma base de conhecimento a todos que buscam o aprendizado de Estrutura de Dados, Análise de Algoritmos e Complexidade estrutural.
+Tendo como referência a matéria CT-234 do ITA - Instituto Tecnológico de Aeronáutica.
 
 <img src="https://miro.medium.com/max/1400/0*ieLXy9BTq6Eobwlt.jpg" />
 
