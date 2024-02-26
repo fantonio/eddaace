@@ -3,7 +3,7 @@
 Este repositório tem por objetivo criar uma base de conhecimento a todos que buscam o aprendizado de Estrutura de Dados, Análise de Algoritmos e Complexidade estrutural.
 Tendo como referência a matéria CT-234 do ITA - Instituto Tecnológico de Aeronáutica.
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiqjCpdiEUaIJ58GCvsUHLq9ejiYhYP-rQEQQxbMQi-2hy1L3fw3iP7lts76W1PK9N-5Oz-6jQgaHnRbT-lN7qC-y9lhavtGrMVF0LBCkHK3qQmgM8u-8graGSYFZkB6pKFm5sE1WvkyBjdj2A4J_a1cVQtFEcExRF6z0A98dsb9DEcKgVup5dFnsyM=w445-h286" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/pt/1/1f/ITA_logo.png?20140422090805" />
 
 ### *Ementa do Estudo*
 
