@@ -4,7 +4,7 @@ Este repositório tem por objetivo criar uma base de conhecimento a todos que bu
 Tendo como referência a matéria CT-234 do ITA - Instituto Tecnológico de Aeronáutica.
 
 <p align="center">
-    <img src=" https://www.math.sk/alg2024/wp-content/uploads/2023/02/logo.png" />
+    <img src="https://upload.wikimedia.org/wikipedia/pt/1/1f/ITA_logo.png?20140422090805" />
 </p>
 
 ### *Ementa do Estudo*
